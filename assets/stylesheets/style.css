@@ -15,11 +15,6 @@ body {
 	margin: 0;
 }
 
-::selection {
-        color: #ff367f;
-	backgroud-color: #d1ff46;
-}
-
 /* ▼ header ▼ */
 
 header {
